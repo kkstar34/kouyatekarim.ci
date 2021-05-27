@@ -31,7 +31,7 @@ Vue.component('example-component', require('./components/ExampleComponent.vue').
     el: '#app',
 });
  */
-import Echo from 'laravel-echo';
+// import Echo from 'laravel-echo';
 
  
 
