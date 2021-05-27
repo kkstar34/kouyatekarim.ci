@@ -638,7 +638,7 @@
    @livewireScripts
    
    
-   <script src="http://127.0.0.1:6001/socket.io/socket.io.js">
+   <!-- <script src="http://127.0.0.1:6001/socket.io/socket.io.js"> -->
   </script>
    
    
@@ -664,6 +664,7 @@
         window.livewire.on('userStore', () => {
             $('#exampleModal1').modal('hide');
             $('#exampleModal').modal('hide');
+               window.location.reload();
         }); */
 
     Echo.join('demo')
