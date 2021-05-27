@@ -145,7 +145,7 @@
 		<section class="normal-grid__row mb-100">
 			<div class="normal-grid__row app__header">
 				<h2 class="mb-20 fade-up">Qui suis je?</h2>
-				<p class="fade-up">A présent dévéloppeur Back-end Core API chez Adjemin <a href="https:/adjemin.com" target="_blank">Adjemin</a>, 
+				<p class="fade-up">A présent dévéloppeur Back-end Core API chez Adjemin <a href="https://adjemin.com" target="_blank">Adjemin</a>, 
 					Je travaille sur une solution denommée AdjeminPay, agrégateur de paiement digital (Orange Monney, MTN Monney, Visa et Master Card),<a href="https://merchant.adjeminpay.net" target="_blank">AdjeminPay</a>,
 					une plateforme d'aide à l'integration des moyens de paiements en ligne favorable à l'ecosysteme du e-commerce en côte d'ivoire . Je suis inéluctablement passionné d&apos;informatique,
 					de programmation et de nouvelles technologies de manière générale.
