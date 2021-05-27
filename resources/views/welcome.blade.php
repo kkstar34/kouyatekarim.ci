@@ -326,7 +326,7 @@
 					<div class="mb-25">
 						<h3>Professeur</h3>
 					</div>
-					<p class="mb-10">Avant de decrocher mon premier emploi j'étais enseignant à IvoireDevAcademy en partenariat avec <a href="https://www.linkedin.com/in/juvenal-pengele/">Juvenal Glodie le fondateur de <a href="https://ivoiredevacademy.com/"></a>	IvoireDevAcademy </a> .</p>
+					<p class="mb-10">Avant de decrocher mon premier emploi j'étais enseignant à IvoireDevAcademy en partenariat avec <a href="https://www.linkedin.com/in/juvenal-pengele/">Juvenal Glodie </a> le fondateur de  <a href="https://ivoiredevacademy.com/">IvoireDevAcademy </a> .</p>
 					<p>Je donnais des cours sur la programmation orientée objet en PHP et aussi des cours sur LARAVEL à Yopougon Maroc, ITConsulting.</p>
 				</div>
 
