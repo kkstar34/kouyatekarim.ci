@@ -426,7 +426,7 @@
 									<article class="tile is-child notification">
 									  <p class="title"><a href="https://www.youtube.com/channel/UCf9_mX3lPw67fOyfrON7jQg"> Ghost Coder (Chaine Youtube)</a> </p>
 									  <figure class="image is-4by3">
-										<img class="modal-trigger" data-target="project-6-modal" src="{{url('assets/images/youtube.png')}}">
+										<img class="modal-trigger" data-target="project-6-modal" src="{{url('assets/images/youtube.PNG')}}">
 									  </figure>
 									</article>
 								  </div>
@@ -600,7 +600,7 @@
 		  </header>
 		  <section class="modal-card-body">
 			<p class="image is-3by2">
-			  <img src="{{url('assets/images/facebook.png')}}" alt="">
+			  <img src="{{url('assets/images/facebook.PNG')}}" alt="">
 			</p>
 	
 			<div class="content">
