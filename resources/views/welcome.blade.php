@@ -632,7 +632,7 @@
 		<!-- Scripts -->
 		<script src="{{asset('assets/js/animate.js')}}"></script>
         <script src="{{asset('js/bundle.js')}}"></script>
-        <script src="http://127.0.0.1:6001/socket.io/socket.io.js">
+        <!-- <script src="http://127.0.0.1:6001/socket.io/socket.io.js"> -->
   </script>
    
    
