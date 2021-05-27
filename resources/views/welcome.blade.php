@@ -42,7 +42,7 @@
   z-index: 1000; }">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Portofolio
+                    Portfolio
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
@@ -124,7 +124,7 @@
 						<h1 class="fade-up"><span>Je suis</span> Kouyate Karim</h1>
 					</div>
 					<div class="mb-25">
-						<h5 class="fade-up">Développeur Fullstack(Laravel & Livewire)</h4>
+						<h5 class="fade-up">Développeur Fullstack(PHP & Js) à Adjemin, spécialisé dans le E-paiement</h4>
 					</div>
 					<div class="fade-up">
 						<button class="primary-btn mr-15">En savoir plus</button>
@@ -145,9 +145,9 @@
 		<section class="normal-grid__row mb-100">
 			<div class="normal-grid__row app__header">
 				<h2 class="mb-20 fade-up">Qui suis je?</h2>
-				<p class="fade-up">Entrepreneur dans le domaine du web depuis bientôt de 2 ans, 
-					j'ai co-fondé ma première startup,<a href="https://www.leviperetudiant.ci" target="_blank">Le vié père etudiant</a> à 21 ans,
-					une plateforme d'aide à l'orientation des nouveaux bacheliers. Je suis inéluctablement passionné d&apos;informatique,
+				<p class="fade-up">A présent dévéloppeur Back-end Core API chez Adjemin <a href="https:/adjemin.com" target="_blank">Adjemin</a>, 
+					Je travaille sur une solution denommée AdjeminPay, agrégateur de paiement digital (Orange Monney, MTN Monney, Visa et Master Card),<a href="https://merchant.adjeminpay.net" target="_blank">AdjeminPay</a>,
+					une plateforme d'aide à l'integration des moyens de paiements en ligne favorable à l'ecosysteme du e-commerce en côte d'ivoire . Je suis inéluctablement passionné d&apos;informatique,
 					de programmation et de nouvelles technologies de manière générale.
 				</p>
 			</div>
@@ -237,7 +237,7 @@
 		<section class="normal-grid__row mb-100 animate-fadeup">
 			<div class="normal-grid__row app__header">
 				<h2 class="mb-20">Mes Hobbies</h2>
-				<p>Je passe mes temps libre à entre autre à regarder les series/films à programmer ou à nager</p>
+				<p>Je passe mes temps libre à entre autre à jouer aux echecs(élo 1400), regarder les series/films à programmer ou à nager</p>
 			</div>
 			<div class="hlp-line"></div>
 		</section>
@@ -249,8 +249,8 @@
 					<div class="mb-25">
 						<h3 class="txt-align__right">Primaire</h3>
 					</div>
-					<p class="txt-justify mb-10">J'ai fait le primaire au groupe scolaire EPP Bakassa Traoré.</p>
-					<p class="txt-justify">Ou j'ai obtenu le Cepe avec 152 points, soit le major de mon école .</p>
+					<p class="txt-justify mb-10">J'ai fait le primaire au groupe scolaire EPP Bakassa Traoré à Bouaké.</p>
+					<!-- <p class="txt-justify">Ou j'ai obtenu le Cepe avec 152 points, soit le major de mon école .</p> -->
 				</div>
 				<div class="grid-item image-container">
 					<img class="max-limit" src="assets/images/school.svg" alt="image" />
@@ -297,7 +297,7 @@
 					<div class="mb-25">
 						<h3 class="txt-align__right">Freelancing</h3>
 					</div>
-					<p class="txt-justify mb-10">Maintenant 1 an que je suis dans le freelance.</p>
+					<p class="txt-justify mb-10">Maintenant 2 ans que je suis dans le freelance.</p>
 					<p class="txt-justify">Ma priorité étant la satisfaction des clients, j'ai satisfait pas mal de clients.</p>
 				</div>
 				<div class="grid-item image-container">
@@ -320,6 +320,16 @@
 				<div class="grid-item image-container">
 					<img class="max-limit" src="assets/images/job.svg" alt="image" />
 				</div>
+				
+
+				<div class="grid-item">
+					<div class="mb-25">
+						<h3>Professeur</h3>
+					</div>
+					<p class="mb-10">Avant de decrocher mon premier emploi j'étais enseignant à IvoireDevAcademy en partenariat avec <a href="https://www.linkedin.com/in/juvenal-pengele/">Juvenal Glodie le fondateur de <a href="https://ivoiredevacademy.com/"></a>	IvoireDevAcademy </a> .</p>
+					<p>Je donnais des cours sur la programmation orientée objet en PHP et aussi des cours sur LARAVEL à Yopougon Maroc, ITConsulting.</p>
+				</div>
+
 				<div class="grid-item">
 					<div class="mb-25">
 						<h3>Stage</h3>
@@ -414,9 +424,9 @@
 								  </div>
 								  <div class="tile is-parent">
 									<article class="tile is-child notification">
-									  <p class="title">Istc Parc Info</p>
+									  <p class="title"><a href="https://www.youtube.com/channel/UCf9_mX3lPw67fOyfrON7jQg"> Ghost Coder (Chaine Youtube)</a> </p>
 									  <figure class="image is-4by3">
-										<img class="modal-trigger" data-target="project-6-modal" src="{{url('assets/images/admin.jpg')}}">
+										<img class="modal-trigger" data-target="project-6-modal" src="{{url('assets/images/youtube.png')}}">
 									  </figure>
 									</article>
 								  </div>
@@ -585,16 +595,16 @@
 		<div class="modal-background"></div>
 		<div class="modal-card">
 		  <header class="modal-card-head">
-			<p class="modal-card-title">ISTC</p>
+			<p class="modal-card-title">Ghost Coder Chaine Youtube</p>
 			<button class="delete" aria-label="close"></button>
 		  </header>
 		  <section class="modal-card-body">
 			<p class="image is-3by2">
-			  <img src="{{url('assets/images/istc.jpg')}}" alt="">
+			  <img src="{{url('assets/images/facebook.png')}}" alt="">
 			</p>
 	
 			<div class="content">
-			 Cette plateforme réalisé pour l'ISTC permet de gérer le parc informatique de la dite école.
+			La page facebook de Ghost Coder
 			</div>
 	
 			<div class="tags">
